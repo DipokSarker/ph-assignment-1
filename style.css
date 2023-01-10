@@ -3,12 +3,9 @@
     font-family: 'Work Sans';
 }
 
-.banner {
-    display: flex;
-    
-}
+/* banner styles */
 
-header {
+.banner {
     display: flex;
 }
 
@@ -51,4 +48,42 @@ font-weight: 600;
 font-size: 20px;
 line-height: 23px;
 text-align: center;
+}
+
+/* my-failure styles */
+
+.my-failure {
+    display: flex;
+}
+
+.failure-title {
+position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1050px;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+
+.failure-description {
+position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 1150px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+
+.list-item {
+position: absolute;
+width: 349px;
+height: 162px;
+left: 862px;
+top: 1260px;
 }
