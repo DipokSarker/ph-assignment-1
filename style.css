@@ -87,3 +87,27 @@ height: 162px;
 left: 862px;
 top: 1260px;
 }
+
+/* my-plans styles */
+
+.section-title {
+    
+    margin-left: 700px;
+    margin-bottom: 50px;
+}
+
+.plan-container {
+    display: flex;
+    gap: 370px;
+}
+
+.image  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+ h3 {
+    color: #737272;
+
+ }
